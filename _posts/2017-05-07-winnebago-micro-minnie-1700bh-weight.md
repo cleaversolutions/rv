@@ -9,7 +9,7 @@ After our second camping outing to Caddo Lake State Park in east Texas, I was ab
 
 - The trailer was completely dry. All tanks, including the hot water heater, were drained.
 - The A-frame of the trailer had a powered tongue jack, two 20 pound liquid propane tanks, a 12v battery, and the components for my Andersen Weight Distribution Hitch.
-- We had already burned a whole tub of firewood during the trip, which I figure adds at least 50 pounds judging by how heavy that thing was to lug around. We also consumed some food and drink, but that is probably only worth a few poounds.
+- We had already burned a whole tub of firewood during the trip, which I figure adds at least 50 pounds judging by how heavy that thing was to lug around. We also consumed some food and drink, but that is probably only worth a few pounds.
 - We have not changed out any of the mattresses from the factory. I assume new mattresses will add weight.
 - We travel with two slim adults, a toddler, and about 100 pounds worth of dog. That means that our tow vehicle is mostly full of dogs and people, with 95% of any cargo being carried in the trailer. 
 - About the only odd thing we have that adds a fair amount of weight compared to other people is a heavy duty offroad stroller, but it still only weighs about 30 pounds.
