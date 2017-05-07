@@ -60,7 +60,7 @@ url-pretty: "MattCleaver.com"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Misc --- #
 
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-#disqus: ""
+disqus: "rv-mattcleaver"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -71,7 +71,7 @@ url-pretty: "MattCleaver.com"  # eg. "deanattali.com/beautiful-jekyll"
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: pretty
+permalink: /:title/
 paginate: 5
 
 # Default YAML values (more information on Jekyll's site)
