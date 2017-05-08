@@ -18,3 +18,10 @@ The ultimate guide to buying a tow vehicle for your travel trailer.
 Which hitch to buy?
 
 The one downside to the 1700BH: cargo capacity.
+
+How to eliminate trailer sway
+- Tires
+- Tow Vehicle load
+- Trailer Load
+- Weight Distribution hitch
+- Tire pressure
