@@ -3,7 +3,7 @@ layout: post
 title: I Took My 1700BH to the Scales
 img: travel-trailer-weight.png
 ---
-<a href="/img/travel-trailer-weight.png"><img class="img-responsive" title="chart of the weight of a 2017 Winnebago Micro Minnie 1700BH" src="{{ site.baseurl }}/img/travel-trailer-weight.png" alt="2013 Volkswagen GTI Autocross in the Wet" /></a>
+<a href="/img/travel-trailer-weight.png"><img class="img-responsive" title="chart of the weight of a 2017 Winnebago Micro Minnie 1700BH" src="{{ site.baseurl }}/img/travel-trailer-weight.png" alt="chart of the weight of a 2017 Winnebago Micro Minnie 1700BH" /></a>
 
 After our second camping outing to Caddo Lake State Park in east Texas, I was able to stop by some CAT scales and figure out where our 2017 Winnebago Micro Minnie 1700BH stood in the weight department. A few initial notes to give some context to the above figures:
 
