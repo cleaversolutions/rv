@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Things You Must Have for Your Camper
+title: 20 Things You Must Have for Your Camper
 ---
 
 We've made a few trips with our camper, and it's crazy the amount of stuff that you need that *doesn't* come with your camper. Here's a list of the essentials (i.e. don't even think about going camping without it), along with some things that we've bought along the way that might be considered comfort items.
