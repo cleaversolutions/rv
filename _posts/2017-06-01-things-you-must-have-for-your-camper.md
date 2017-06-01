@@ -3,7 +3,7 @@ layout: post
 title: 20 Things You Must Have for Your Camper
 ---
 
-We've made a few trips with our camper, and it's crazy the amount of stuff that you need that *doesn't* come with your camper. Here's a list of the essentials (i.e. don't even think about going camping without it), along with some things that we've bought along the way that might be considered comfort items.
+We've made a few trips with our camper, and it's crazy the amount of stuff that you need that *doesn't* come with your camper. Here's a list of the essentials (i.e. don't even think about going camping without it).
 
 I ordered almost everything off of Amazon, but I was surprised to find out that Walmart carries a lot of these RV supplies. So if you are in a pinch for an impending trip, check your local Walmart.
 
