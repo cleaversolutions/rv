@@ -549,3 +549,36 @@ table tr td :last-child {
 	color: red;
 	
 }
+
+a .fa-twitter-square {
+color: #00aced;
+}
+
+a .fa-facebook-official {
+color: #3b5998;
+}
+
+a .fa-pinterest-square {
+color: #cb2027;
+}
+
+a:hover .fa-twitter-square {
+color: #1dcaff;
+}
+
+a:hover .fa-facebook-official {
+color: #8b9dc3;
+}
+
+a:hover .fa-pinterest-square {
+color: #e03e44;
+}
+
+.fa {
+
+margin: 5px;
+}
+
+.navbar-fixed-bottom {
+text-align: center;
+}
