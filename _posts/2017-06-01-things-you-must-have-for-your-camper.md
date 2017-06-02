@@ -41,6 +41,16 @@ The one in the picture is the one I got, and it is portable and simple. You just
 
 <div class="clearfix"></div>
 
+<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/81fW5wmiaNL._SL500_.jpg">
+[Fresh water hose](https://www.amazon.com/exec/obidos/ASIN/B004VHXS20/ref=nosim&tag=mattclecom-20) - I'm not sure it really matters, but I made sure to get a hose specifically rated for fresh water drinking. Generally speaking, RVers universally recognize white or blue hoses as fresh (potable) water hoses, so get something that color, at least.
+
+<div class="clearfix"></div>
+
+<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/51eWBvCbxYL._SX500_.jpg">
+[90 Degree water elbow](https://www.amazon.com/exec/obidos/ASIN/B003BZD03K/ref=nosim&tag=mattclecom-20) - Apparently the plastic inlet where you hook up your camper to your fresh water hose is prone to breaking. This 90 degree elbow helps relieve some of the force on that fitting. 
+
+<div class="clearfix"></div>
+
 <img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/71MsZXtoNmL._SL500_.jpg">
 [Sewer hose](https://www.amazon.com/exec/obidos/ASIN/B01HPHR2M4/ref=nosim&tag=mattclecom-20) - The whole reason we got a camper was so we didn't have to share a bathroom with the plebs, right? Well, that means if you are going to use your bathroom, you've got to dump it. My dealer gave me a *complimentary* sewer hose. When I looked at it, I knew it wasn't going to do the job. I think it was made for lawn irrigation. So I got this Camco Rhino sewer hose and it's worked great so far.
 
@@ -56,18 +66,13 @@ The one in the picture is the one I got, and it is portable and simple. You just
 
 <div class="clearfix"></div>
 
-<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/81fW5wmiaNL._SL500_.jpg">
-[Fresh water hose](https://www.amazon.com/exec/obidos/ASIN/B004VHXS20/ref=nosim&tag=mattclecom-20) - I'm not sure it really matters, but I made sure to get a hose specifically rated for fresh water drinking. Generally speaking, RVers universally recognize white or blue hoses as fresh (potable) water hoses, so get something that color, at least.
-
-<div class="clearfix"></div>
-
-<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/51eWBvCbxYL._SX500_.jpg">
-[90 Degree water elbow](https://www.amazon.com/exec/obidos/ASIN/B003BZD03K/ref=nosim&tag=mattclecom-20) - Apparently the plastic inlet where you hook up your camper to your fresh water hose is prone to breaking. This 90 degree elbow helps relieve some of the force on that fitting. 
-
-<div class="clearfix"></div>
-
 <img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/81jLGdob31L._SL500_.jpg">
 [Black tank rinse hose](https://www.amazon.com/exec/obidos/ASIN/B06XGW1NGD/ref=nosim&tag=mattclecom-20) - You need a separate hose to rinse your blank tank because, well, I shouldn't really have to tell you why. I like that this one has a nice thick fitting on the end that makes it easy to turn and tighten by (gloved) hand.
+
+<div class="clearfix"></div>
+
+<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/51lpzskQycL._SX500_.jpg">
+[Latex gloves](https://www.amazon.com/exec/obidos/ASIN/B00192JH4S/ref=nosim&tag=mattclecom-20) - I'm not dumping the black tank bare-handed. If you want to, go for it.
 
 <div class="clearfix"></div>
 
@@ -88,11 +93,6 @@ The one in the picture is the one I got, and it is portable and simple. You just
 
 <img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/61J0VjkTGnL._SL500_.jpg">
 [Air pressure guage](https://www.amazon.com/exec/obidos/ASIN/B0037V0EW8/ref=nosim&tag=mattclecom-20) - You already have one of these for your tow vehicle anyways, right?
-
-<div class="clearfix"></div>
-
-<img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/51lpzskQycL._SX500_.jpg">
-[Latex gloves](https://www.amazon.com/exec/obidos/ASIN/B00192JH4S/ref=nosim&tag=mattclecom-20) - I'm not dumping the black tank bare-handed. If you want to, go for it.
 
 <div class="clearfix"></div>
 
