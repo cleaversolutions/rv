@@ -67,7 +67,7 @@ The one in the picture is the one I got, and it is portable and simple. You just
 <div class="clearfix"></div>
 
 <img class="img-responsive pull-right" src="https://images-na.ssl-images-amazon.com/images/I/81jLGdob31L._SL500_.jpg">
-[Black tank rinse hose](https://www.amazon.com/exec/obidos/ASIN/B06XGW1NGD/ref=nosim&tag=mattclecom-20) - You need a separate hose to rinse your blank tank because, well, I shouldn't really have to tell you why. I like that this one has a nice thick fitting on the end that makes it easy to turn and tighten by (gloved) hand.
+[Black tank rinse hose](https://www.amazon.com/exec/obidos/ASIN/B06XGW1NGD/ref=nosim&tag=mattclecom-20) - You need a separate hose to rinse your black tank because, well, I shouldn't really have to tell you why. I like that this one has a nice thick fitting on the end that makes it easy to turn and tighten by (gloved) hand.
 
 <div class="clearfix"></div>
 
