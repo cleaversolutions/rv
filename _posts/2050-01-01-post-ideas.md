@@ -54,6 +54,7 @@ How to eliminate trailer sway
 - Folding chairs - https://www.amazon.com/exec/obidos/ASIN/B004C0QDLO/ref=nosim&tag=mattclecom-20
 - Aeropress - https://www.amazon.com/exec/obidos/ASIN/B0018RY8H0/ref=nosim&tag=mattclecom-20
 - Pour-over coffee - https://www.amazon.com/exec/obidos/ASIN/B0014CVEH6/ref=nosim&tag=mattclecom-20
+- headlamp
 
 ### Safety
 
