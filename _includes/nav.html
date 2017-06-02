@@ -37,12 +37,19 @@
 	<div class="avatar-container">
 	  <div class="avatar-img-border">
 	    <a href="/">
-	      
 	      <img class="avatar-img" src="{{ site.avatar | prepend: site.baseurl | replace: '//', '/' }}" />
 		</a>
 	  </div>
 	</div>
 	{% endif %}
 
+  </div>
+</nav>
+
+<nav class="navbar navbar-default navbar-fixed-bottom">
+  <div class="container-fluid">
+ 	
+ 	{% include share.html %}
+    
   </div>
 </nav>
