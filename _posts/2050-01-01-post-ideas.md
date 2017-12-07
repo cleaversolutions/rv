@@ -26,6 +26,14 @@ How to eliminate trailer sway
 - Weight Distribution hitch
 - Tire pressure
 
+Bicycle mounting options:
+- Roof of TV
+- Truck bed of TV
+- Front hitch mount above A-fram
+- Ladder Rack
+- Bumber mount racks
+- Hitch mount on rear of TV
+
 
 ---
 ### Nice to Have
